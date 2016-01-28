@@ -1,0 +1,36 @@
+C:\Users\Syed Abedeen\Desktop\NovHW\NovHW\obj\Debug\NovHW.Resources.resources
+C:\Users\Syed Abedeen\Desktop\NovHW\NovHW\obj\Debug\NovHW.vbproj.GenerateResource.Cache
+C:\Users\Syed Abedeen\Desktop\NovHW\NovHW\bin\NovHW.dll.config
+C:\Users\Syed Abedeen\Desktop\NovHW\NovHW\bin\NovHW.dll
+C:\Users\Syed Abedeen\Desktop\NovHW\NovHW\bin\NovHW.pdb
+C:\Users\Syed Abedeen\Desktop\NovHW\NovHW\bin\NovHW.xml
+C:\Users\Syed Abedeen\Desktop\NovHW\NovHW\obj\Debug\NovHW.dll
+C:\Users\Syed Abedeen\Desktop\NovHW\NovHW\obj\Debug\NovHW.xml
+C:\Users\Syed Abedeen\Desktop\NovHW\NovHW\obj\Debug\NovHW.pdb
+C:\Users\v-niansa\Desktop\NovHW\NovHW\NovHW\bin\NovHW.dll.config
+C:\Users\v-niansa\Desktop\NovHW\NovHW\NovHW\bin\NovHW.dll
+C:\Users\v-niansa\Desktop\NovHW\NovHW\NovHW\bin\NovHW.pdb
+C:\Users\v-niansa\Desktop\NovHW\NovHW\NovHW\bin\NovHW.xml
+C:\Users\v-niansa\Desktop\NovHW\NovHW\NovHW\obj\Debug\NovHW.Resources.resources
+C:\Users\v-niansa\Desktop\NovHW\NovHW\NovHW\obj\Debug\NovHW.vbproj.GenerateResource.Cache
+C:\Users\v-niansa\Desktop\NovHW\NovHW\NovHW\obj\Debug\NovHW.dll
+C:\Users\v-niansa\Desktop\NovHW\NovHW\NovHW\obj\Debug\NovHW.xml
+C:\Users\v-niansa\Desktop\NovHW\NovHW\NovHW\obj\Debug\NovHW.pdb
+C:\Users\v-niansa\Desktop\NovHW\NovHW\Data base\bin\NovHW.dll.config
+C:\Users\v-niansa\Desktop\NovHW\NovHW\Data base\bin\NovHW.dll
+C:\Users\v-niansa\Desktop\NovHW\NovHW\Data base\bin\NovHW.pdb
+C:\Users\v-niansa\Desktop\NovHW\NovHW\Data base\bin\NovHW.xml
+C:\Users\v-niansa\Desktop\NovHW\NovHW\Data base\obj\Debug\NovHW.Resources.resources
+C:\Users\v-niansa\Desktop\NovHW\NovHW\Data base\obj\Debug\NovHW.vbproj.GenerateResource.Cache
+C:\Users\v-niansa\Desktop\NovHW\NovHW\Data base\obj\Debug\NovHW.dll
+C:\Users\v-niansa\Desktop\NovHW\NovHW\Data base\obj\Debug\NovHW.xml
+C:\Users\v-niansa\Desktop\NovHW\NovHW\Data base\obj\Debug\NovHW.pdb
+C:\Users\v-niansa\Desktop\Data base\Data base .net\Data base\bin\NovHW.dll.config
+C:\Users\v-niansa\Desktop\Data base\Data base .net\Data base\bin\NovHW.dll
+C:\Users\v-niansa\Desktop\Data base\Data base .net\Data base\bin\NovHW.pdb
+C:\Users\v-niansa\Desktop\Data base\Data base .net\Data base\bin\NovHW.xml
+C:\Users\v-niansa\Desktop\Data base\Data base .net\Data base\obj\Debug\NovHW.Resources.resources
+C:\Users\v-niansa\Desktop\Data base\Data base .net\Data base\obj\Debug\NovHW.vbproj.GenerateResource.Cache
+C:\Users\v-niansa\Desktop\Data base\Data base .net\Data base\obj\Debug\NovHW.dll
+C:\Users\v-niansa\Desktop\Data base\Data base .net\Data base\obj\Debug\NovHW.xml
+C:\Users\v-niansa\Desktop\Data base\Data base .net\Data base\obj\Debug\NovHW.pdb
